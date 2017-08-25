@@ -1,5 +1,5 @@
 <h2 class="section-title"><%= @labels['contact'] %></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ducimus neque amet corrupti ex temporibus similique.</p>
+<!--p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ducimus neque amet corrupti ex temporibus similique.</p>
 <form method="post" action="contact.php" id="form" class="form">
   <div class="control-group control-group-name">
     <label for="name">Name</label>
@@ -14,4 +14,5 @@
   <textarea name="" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
   </div>
   <input class="btn btn-send" type="submit" value="Send">
-</form>
+</form-->
+<p>to contact us you may use, <a href="https://ycprogramacoes.herokuapp.com/contato.jsf">this site</a> 
