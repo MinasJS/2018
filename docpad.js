@@ -33,7 +33,7 @@ module.exports = {
         // Site info
         site: {
             theme: "yellow-swan",
-            url: "http://yanccprogramador.github.io/MinasJS/",
+            url: "http://minasjs.com",
             googleanalytics: "UA-33656081-1"
         },
 
