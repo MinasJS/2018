@@ -33,7 +33,7 @@ module.exports = {
         // Site info
         site: {
             theme: "yellow-swan",
-            url: "http://minasjs.com",
+            url: "https://minasjs.com",
             googleanalytics: "UA-33656081-1"
         },
 
@@ -42,10 +42,10 @@ module.exports = {
         // you can also change order here and it will reflect on page
         sections: [
             'about',
-            /*'location',
-            'speakers',
-            'schedule',
-            'sponsors',*/
+            'location',
+            /*'speakers',
+            'schedule',*/
+            'sponsors',
             'partners',
             'contact'
         ],
@@ -53,10 +53,10 @@ module.exports = {
         // Labels which you can translate to other languages
         labels: {
             about: "About",
-            /*location: "Location",
-            speakers: "Speakers",
-            schedule: "Schedule",
-            sponsors: "Sponsors",*/
+            location: "Location",
+            /*speakers: "Speakers",
+            schedule: "Schedule",*/
+            sponsors: "Sponsors",
             partners: "Partners",
             contact: "Contact"
         },
@@ -169,15 +169,15 @@ module.exports = {
 
         // List of Sponsors
         sponsors: [{
-            name: "Eventick",
-            logo: "themes/yellow-swan/img/sponsor.png",
-            url: "http://eventick.com.br"
-        }],
+          name: "TampaWorks",
+          logo: "themes/yellow-swan/img/tampa.svg",
+          url: "https://tampa.works"
+      }],
 
         // List of Partners
         partners: [{
             name: "BrazilJS",
-            logo: "themes/yellow-swan/img/partner.png",
+            logo: "themes/yellow-swan/img/partner.svg",
             url: "http://braziljs.org"
         }],
 
