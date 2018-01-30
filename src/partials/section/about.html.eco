@@ -1,4 +1,2 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p> Minas js is the new js conference, in Minas Gerais, Brazil. Made by two developers who loves javascript
-language and wants to show this magnific world of js to many developers. The first conference will be in March 3 of 2018
-in  <%= @conf.venue %>, <%= @conf.city %>. We want you there </p> 
+<p> Minas js é a nova conf em Minas Gerais sobre Javascript, organizado por 4 devs que amam esssa linguagem e querem mostrar esse mundo magnífico para todos. Com o intuito de mostrar diversos assuntos sobre Javascript e unir a comunidade local. A primeira edição vai acontecer dia 3 de março no Auditório Phoenix da Fumec no endereço: Auditório Phoenix-FUMEC, Belo Horizonte contaremos com diversas palestras desde o Javascript puro até frameworks e tolls. Venha você também, participar deste dia de muito aprendizado, contamos com vocês. </p> 
