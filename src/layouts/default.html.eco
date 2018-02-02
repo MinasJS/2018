@@ -21,6 +21,7 @@
 
   <link rel="icon" href="<%= @getTheme() %>/img/minasjs.png" type="image/x-icon">
   <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/logo.png">
+  <link href="https://fonts.googleapis.com/css?family=Lato|Raleway:700" rel="stylesheet">
 
   <!-- STYLES -->
   <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css">

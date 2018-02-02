@@ -9,9 +9,9 @@ module.exports = {
     conf: {
       name: "Minas js",
       description: "Melhor evento de javascript em Minas Gerais",
-      date: "3 de março",
+      date: "3 de Março ",
       // If your event is free, just comment this line
-      price: "R$ 65.00",
+      price: "R$ 65,00",
       venue: "Auditório Phoenix Fumec",
       address: "R. Cobre, 200",
       city: "Belo Horizonte",
@@ -64,7 +64,7 @@ module.exports = {
       {
         name: "Wharley Ornelas",
         photo: "https://s.gravatar.com/avatar/72c61b31e3ffe7eee15504ae7e26f011?s=140",
-        bio: "Wharley é fullstack developer na Taller, um apaixonado por javascript porém, casado com nextjs e amante do apollo",
+        bio: "Wharley é fullstack developer na Taller, um apaixonado por Javascript porém, casado com Nextjs e amante do Apollo.",
         company: "Taller",
         link: {
           href: "http://twitter.com/Wharleyornelas",
@@ -88,7 +88,7 @@ module.exports = {
       }, {
         name: "Fernanda Araújo",
         photo: "themes/yellow-swan/img/fernanda.png",
-        bio: "Formada em engenharia de computação e consultora em desenvolvimento de software na ThoughtWorks",
+        bio: "Formada em Engenharia da Computação é consultora em desenvolvimento de software na ThoughtWorks.",
         company: "ThoughtWorks",
         presentation: {
           title: "Talk a definir",
