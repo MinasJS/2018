@@ -19,7 +19,7 @@
   <meta property="og:image" content="<%= @getUrl() %>/<%= @getTheme() %>/img/logo.png">
   <!-- / FACEBOOK -->
 
-  <link rel="icon" href="<%= @getTheme() %>/img/minasjs.png" type="image/x-icon">
+  <link rel="icon" href="<%= @getTheme() %>/img/logo.png" type="image/x-icon">
   <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/logo.png">
 
   <!-- STYLES -->
