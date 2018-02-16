@@ -9,7 +9,7 @@ module.exports = {
     conf: {
       name: "Minas js",
       description: "Melhor evento de javascript em Minas Gerais",
-      date: "3 de Março ",
+      date: "28 de Abril ",
       // If your event is free, just comment this line
       price: "R$ 65,00",
       venue: "Auditório Phoenix Fumec",
@@ -92,7 +92,19 @@ module.exports = {
         company: "ThoughtWorks",
         presentation: {
           title: "Talk a definir",
-        }
+        },
+      },{
+        name: "Laryssa Magalhães",
+        photo: "themes/yellow-swan/img/laryssa.jpg",
+        bio: "Front end developer na Studio Sol, cursa Ánalise e Desenvolvimento de Sistemas é apaixonada por Harry Potter e Video Games.",
+        company: "Studio Sol",
+        link: {
+          href: "https://medium.com/@larymagal",
+          text: "@lary_magal"
+        },
+        presentation: {
+          title: "Diversidade na Tecnologia",
+        },
       }],
     // The entire schedule
     /*schedule: [
