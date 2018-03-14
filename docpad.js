@@ -20,10 +20,10 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    /*callToAction: {
+    callToAction: {
         text: "Register now!",
-        link: "http://eventick.com.br"
-    },*/
+        link: "https://loja.tampa.works/produto/minasjs-conf-2018"
+    },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     /*forkButton: {
