@@ -221,10 +221,6 @@ module.exports = {
 
     // List of Partners
     partners: [{
-      name: "BrazilJS",
-      logo: "themes/yellow-swan/img/partner.svg",
-      url: "http://braziljs.org"
-    }, {
       name: "Fumec",
       logo: "themes/yellow-swan/img/fumec.png",
       url: "http://http://www.fumec.br/"
